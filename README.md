@@ -40,4 +40,4 @@ Employee turnover poses a significant challenge for organizations, resulting in 
 3. `streamlit run streamlit_report.py`
 
 ## Deployment
-Streamlit link: 
+Streamlit link: https://employeeattrition-data.streamlit.app/
